@@ -1,0 +1,2 @@
+# MYTG
+Bot Setup
